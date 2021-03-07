@@ -1,14 +1,6 @@
 import java.util.*
 import kotlin.random.Random
 
-fun printNumber(nums: List<Int>, idx: Int) {
-    print("[ NO.${idx} ] : ")
-    for (num in nums) {
-        print("$num ")
-    }
-    println()
-}
-
 fun createNumber() : List<Int> {
     val nums = mutableListOf<Int>()
     while(nums.size < 7){
@@ -17,6 +9,14 @@ fun createNumber() : List<Int> {
     }
 
     return nums
+}
+
+fun printNumber(nums: List<Int>, idx: Int) {
+    print("[ NO.${idx} ] : ")
+    for (num in nums) {
+        print("$num ")
+    }
+    println()
 }
 
 fun main() {

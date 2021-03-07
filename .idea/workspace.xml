@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58b6ab65-9e81-4a6a-b4a1-fb778bbf3c09" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LottoGenerator/LottoGeneratorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoGenerator/LottoGeneratorKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LottoGenerator/META-INF/LottoGenerator.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoGenerator/META-INF/LottoGenerator.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LottoGenerator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/LottoGenerator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +92,7 @@
       <workItem from="1614922635861" duration="1015000" />
       <workItem from="1614929711003" duration="1851000" />
       <workItem from="1615008546973" duration="815000" />
-      <workItem from="1615100515103" duration="1310000" />
+      <workItem from="1615100515103" duration="1669000" />
     </task>
     <servers />
   </component>
